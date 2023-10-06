@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdul-rahman-20b768254/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/93/587/png-clipart-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue.png" alt="abdul rahman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-rahman-20b768254/" target="blank"><img align="center" src="https://image.pngaaa.com/708/1947708-middle.png" alt="abdul rahman" height="30" width="40" /></a>
 <a href="https://instagram.com/itss___rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itss___rahman" height="30" width="40" /></a>
 </p>
 
