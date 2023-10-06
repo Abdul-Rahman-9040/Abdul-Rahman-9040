@@ -9,15 +9,17 @@
 
 - 🌱 I’m currently learning **React,Android Studio**
 
-- 👯 I’m looking to collaborate on [College IEEE Conference Website](https://icait.in/)
+- 👯 Designed [College IEEE Conference Website](https://icait.in/)
 
 - 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **rahmanckm018@gmail.com**
 
+- ⚡ Headline **B.Eng Computer Science and Engineering. Seeking Entry Level/Internship Opportunities in Web Development/Software Development**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rahman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-rahman-20b768254/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/93/587/png-clipart-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue.png" alt="abdul rahman" height="30" width="40" /></a>
 <a href="https://instagram.com/itss___rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itss___rahman" height="30" width="40" /></a>
 </p>
 
