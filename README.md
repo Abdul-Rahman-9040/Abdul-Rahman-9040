@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **rahmanckm018@gmail.com**
 
-- ⚡ Headline **B.Eng Computer Science and Engineering. Seeking Entry Level Internship Opportunities in Web Development/Software Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
