@@ -1,5 +1,4 @@
-
-![abdul](https://github.com/Abdul-Rahman-9040/Abdul-Rahman-9040/assets/116431477/898ec541-ac81-492e-a16f-6d907f5bae3b)
+![WhatsApp Image 2023-10-07 at 12 30 10](https://github.com/Abdul-Rahman-9040/Abdul-Rahman-9040/assets/116431477/96ceb657-f039-4b57-adc3-a3124743e6e6)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h2 align="left">💫 About me</h2> 
 🔭I’m currently working on Inventory management system<br>🌱I’m currently learning React,Android Studio<br>💬Ask me about HTML,CSS,JS<br>📫 How to reach me rahmanckm018@gmail.com
