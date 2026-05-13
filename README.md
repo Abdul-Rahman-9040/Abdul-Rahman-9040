@@ -2,17 +2,17 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h1>👋 Hey there! I'm Abdul Rahman</h1>
-<h2 align="left">💫 About Me</h2>
+## 💫 About Me
 
-Passionate Software Engineer with a strong interest in frontend development, problem-solving, and building scalable web applications.
+👨‍💻 Software Engineer with a strong interest in **Frontend Development, Problem Solving, and Scalable Web Applications**.
 
-My journey in tech began with designing the official website for **ICAIT-24**, an IEEE International Conference, where I combined creative design with technical problem-solving.
+🚀 Started my tech journey by designing the official website for **ICAIT-24**, an **IEEE International Conference**, blending creativity with technical problem-solving.
 
-Currently, I’m working as a **Software Engineer I at HCL Software**, developing enterprise-grade web solutions with a focus on frontend development, performance optimization, and clean code practices.
+💼 Currently working as a **Software Engineer I at HCLSoftware**, developing enterprise-grade web solutions focused on **Frontend Development, Performance Optimization, and Clean Code Practices**.
 
-Alongside my role, I’m pursuing a **Master’s in Data Science** to strengthen my expertise in data-driven technologies and intelligent software solutions.
+🎓 Pursuing a **Master’s in Data Science** to expand my expertise in **Data-Driven Technologies and Intelligent Software Solutions**.
 
-📫 Reach me at: <a href="mailto:rahmanckm018@gmail.com">rahmanckm018@gmail.com</a>
+📫 **Reach me at:** [rahmanckm018@gmail.com](mailto:rahmanckm018@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
